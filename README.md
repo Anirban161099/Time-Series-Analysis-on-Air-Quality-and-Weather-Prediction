@@ -35,4 +35,4 @@ To use this project and apply time series analysis on weather and air quality pr
 6. Optionally, visualize the predicted values against the actual values using plots or charts to gain further insights.
 
 # License
-This project is licensed under the [MIT License]
+"This project is licensed under the terms of the MIT license."
