@@ -37,3 +37,7 @@ To use this project and apply time series analysis on weather and air quality pr
 4. Evaluate the trained models by calculating error metrics such as MAE, MSE, and RMSE. Compare the performance of different models to determine the most accurate prediction model.
 5. Analyze the results and interpret the findings. Identify the factors that significantly influence weather and air quality and understand the models' predictive capabilities.
 6. Optionally, visualize the predicted values against the actual values using plots or charts to gain further insights.
+
+# License
+
+This project is licensed under the [MIT License](LICENSE)
